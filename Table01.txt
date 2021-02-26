@@ -1,0 +1,186 @@
+Aim : Design the following
+
+
+
+
+Source code :
+
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<title>pgm1</title>
+
+</head>
+
+<body>
+
+<center>INTERNET TECHNOLOGY 4</center>
+
+<center><b>Specification Table with Hours and Marks</b></center>
+
+<table border="2"  bgcolor="LightBlue">
+
+<tr><th>Unit No.</th>
+
+<th>Unit Title</th>
+
+<th>Teaching Hours</th>
+
+<th colspan = "4">Distribution of Theory Marks:<br>
+
+R Level/ U Level/ A Level/
+Total Marks</th>
+
+</tr>
+
+
+
+<tr>
+
+<td><ol>I</ol></td>
+
+<td>Introduction to Internet Technology</td>
+
+<td><center>2</center></td>
+
+<td><center>4</center></td>
+
+<td><center>4</center></td>
+
+<td><center>0</center></td>
+
+<td><center>8</center></td>
+
+</tr>
+
+
+
+<tr>
+
+<td><ol>II</ol></td>
+
+<td>Basics of HTML & CSS</td>
+
+<td><center>6</center></td>
+
+<td><center>0</center></td>
+
+<td><center>2</center></td>
+
+<td><center>6</center></td>
+
+<td><center>8</center></td>
+
+</tr>
+ 
+<tr>
+
+<td><ol>III</ol></td>
+
+<td>Active Server Pages 3.0</td>
+
+<td><center>6</center></td>
+
+<td><center>4</center></td>
+
+<td><center>8</center></td>
+
+<td><center>0</center></td>
+
+<td><center>12</center></td>
+
+</tr>
+
+
+
+<tr>
+
+<td><ol>IV</ol></td>
+
+<td>Server Side Coding With VBScript and XML</td>
+
+<td><center>8</center></td>
+
+<td><center>2</center></td>
+
+<td><center>4</center></td>
+
+<td><center>8</center></td>
+
+<td><center>14</center></td>
+
+</tr>
+
+
+
+<tr>
+
+<td><ol>V</ol></td>
+
+<td>ASP Objects & Components</td>
+
+<td><center>10</center></td>
+
+<td><center>4</center></td>
+ 
+<td><center>4</center></td>
+
+<td><center>6</center></td>
+
+<td><center>14</center></td>
+
+</tr>
+
+
+
+<tr>
+
+<td><ol>VI</ol></td>
+
+<td>Accessing database with ASP & ADO</td>
+
+<td><center>10</center></td>
+
+<td><center>4</center></td>
+
+<td><center>4</center></td>
+
+<td><center>6</center></td>
+
+<td><center>14</center></td>
+
+</tr>
+
+
+
+<tr>
+
+<td><ol></ol></td>
+
+<td><b><center>Total</center></b></td>
+
+<td><b><center>42</center></b></td>
+
+<td><b><center>18</center></b></td>
+
+<td><b><center>26</center></b></td>
+
+<td><b><center>26</center></b></td>
+
+<td><b><center>70</center></b></td>
+
+</tr>
+ 
+</table>
+
+</body>
+
+</html>
+ 
+
+
+ 
+
